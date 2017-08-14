@@ -36,7 +36,7 @@ namespace Login
             {
                 MessageBox.Show("Başarısız DENEME");
             }
-
+//DENEME
         }
     }
 }
